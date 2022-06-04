@@ -8,6 +8,8 @@ the files are a bit disordered, due to i cannot upload so much files at once.
 this is what it should look like
 
 
+DO CHANGE YOUR SySTEM INFOrMATION!!!!!
+
 oc 0.78, i use it in monterey
 
 here is the efi folder
