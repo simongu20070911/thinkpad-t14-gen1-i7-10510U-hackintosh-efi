@@ -13,7 +13,7 @@ DO CHANGE YOUR SySTEM INFOrMATION!!!!!
 oc 0.78, i use it in monterey
 
 here is the efi folder
-https://drive.google.com/file/d/1EiNk0-etpSYqu5K0a3Q4ssCjaZTgx4tl/view?usp=sharing
+https://drive.google.com/file/d/1fMrhfxkDeS8qRmlbbrQQk29idJH4528J/view?usp=sharing
 
 mic issue: i think this is due to the version of apple alc. apple alc 1.7.2 support alc 257 at id 97. i think we can update it.
 hope you enjoy yourselves!
